@@ -2,3 +2,11 @@
     margin: o;
     padding: 0;
 }
+
+ul {
+    content: normal;
+}
+
+table {
+    border: 1xp solid black;
+}
